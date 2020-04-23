@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: can
+Premain-Class: com.seven.agent.MonitorMain
+
